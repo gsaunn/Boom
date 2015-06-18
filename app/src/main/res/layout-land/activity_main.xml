@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="true"
+    android:orientation="vertical" >
+
+    <!-- Include Action Bar -->
+    <include layout="@layout/toolbar"/>
+
+    <!--  Include Music dashboard -->
+    <include layout="@layout/songcontrols"/>
+
+    <!--  Include Footer -->
+
+
+</LinearLayout>

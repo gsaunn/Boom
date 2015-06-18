@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Boom</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Skin_array">
+        <item>Blue Speia</item>
+        <item>Blue 2</item>
+        <item>Blue 3</item>
+        <item>Blue 4</item>
+        <item>Blue 5</item>
+        <item>Grunge </item>
+        <item>classic</item>
+        <item>classic1</item>
+        <item>classic2</item>
+    </string-array>
+</resources>
